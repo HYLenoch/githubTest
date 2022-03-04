@@ -2,8 +2,11 @@
 bbbbbbbbbbbbbbbbbb
 cccccccccccccccccc
 
-
+学习brach
 bug修复完成
 ！！！！
 第二次在bug分支中修bug
 冲突解决完成
+
+在dev分支中开发新功能1
+
